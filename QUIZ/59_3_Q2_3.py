@@ -2,7 +2,7 @@ dna = input().strip().upper()
 task = input()
 invalid = False
 for c in dna:
-    if c not in ['A','T','G','C']:
+    if c not in 'ATGC':
         invalid = True
         break
 if invalid:
