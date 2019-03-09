@@ -1,0 +1,3 @@
+P100;Elef-NoteBook-A5-Grey;1000
+P200;Lancier-Pen-Blue;5000
+P210;Pentral-Fountain-Pen;150

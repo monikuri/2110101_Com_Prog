@@ -1,0 +1,5 @@
+InTown;1;7.5
+PimanInn;2;7.3
+BelAir;4;7.9
+ZenRoom;3;8.0
+aLoft;4;8.5
