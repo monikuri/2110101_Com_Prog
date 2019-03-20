@@ -1,3 +1,6 @@
+"""
+TODO: Improve time complexity (33/100)
+"""
 n, m = [int(e) for e in input().split()]
 nums = [int(e) for e in input().split()]
 num_set = set(nums)
